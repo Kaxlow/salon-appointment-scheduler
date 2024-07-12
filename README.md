@@ -1,1 +1,1 @@
-# This repo contains the component files for the Salon Appointment Scheduler project on freeCodeCamp
+This repo contains the component files for the Salon Appointment Scheduler project on freeCodeCamp: https://www.freecodecamp.org/learn/relational-database/build-a-salon-appointment-scheduler-project/build-a-salon-appointment-scheduler
